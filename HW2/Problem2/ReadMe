@@ -1,4 +1,0 @@
-This program reads an input text file and takes user input on window size then calculates the central moving average for a set of sensor readings 
-from the inputed file and output this central moving average to a desired output file.
-
-An example Input and Output file are attached
