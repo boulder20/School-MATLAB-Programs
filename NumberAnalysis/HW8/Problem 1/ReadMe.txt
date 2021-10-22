@@ -1,0 +1,2 @@
+This program simulates cotters method for an user inputted number of factors based on a list of trial outputs also inputted by the user
+then the programs outputs the odd and even contrast, effect measure and sensitiveity of each factor in an output table

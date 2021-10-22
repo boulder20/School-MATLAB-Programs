@@ -1,0 +1,2 @@
+This program is a graphical representation of the 2nd written hw problem in HW08. This graph plots 3 points representing the point charges and
+graphs the electrical field lines they create as well as graphing the functions potential energy contour lines all at any cooridinate (x,y).
