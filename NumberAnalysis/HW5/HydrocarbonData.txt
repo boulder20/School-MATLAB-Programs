@@ -1,0 +1,31 @@
+# Experiments were performed to test the ability of pollution control
+# devices to prevent the escape of hydrocarbons when gas is being
+# pumped into a car's gas tank. 
+# Column 1 represents the initial pressure in the gas tank (in psi);
+# Column 2 represents the mass of escaped hydrocarbons (in grams).
+3.32    29
+3.10    24
+3.18    26
+3.39    22
+3.20    27
+3.03    21
+4.78    33
+4.72    34
+4.60    32
+4.53    34
+2.90    20
+4.40    36
+4.31    34
+4.27    23
+4.41    24
+4.39    32
+3.91    29
+3.75    22
+4.30    37
+4.02    37
+4.02    33
+3.98    27
+4.39    34
+2.75    19
+2.59    16
+2.73    22
